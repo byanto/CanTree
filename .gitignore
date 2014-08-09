@@ -1,0 +1,14 @@
+# ignore all bin directories 
+bin/
+
+# ignore all target directories
+target/
+
+# ignore .metadata directories
+.metadata
+
+# ignore all files ending with ~
+*~
+
+# ignore all files ending with .DS_Store
+*.DS_Store
